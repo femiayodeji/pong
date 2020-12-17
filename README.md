@@ -1,3 +1,2 @@
 # pong
-
-* Good old pong game
+Good old pong game
